@@ -1,4 +1,4 @@
 # learning
 This is for learning purpose
 <br>
-Author:DSPREDY
+Author: Dadi Reddy Sai Praneeth Reddy
